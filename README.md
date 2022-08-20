@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My first react app following: https://www.youtube.com/watch?v=b9eMGE7QtTk&t=3762s
+
+I have also added the following functionality:
+
+Search begins after every character typed
+Each movie containter can redirect to a google search of the movie title
 
 ## Available Scripts
 
