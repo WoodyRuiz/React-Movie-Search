@@ -7,6 +7,7 @@ My first react app following: https://www.youtube.com/watch?v=b9eMGE7QtTk&t=3762
 I have also added the following functionality:
 
 Search begins after every character typed
+
 Each movie containter can redirect to a google search of the movie title
 
 ![Alt text](Example.png?raw=true "Title")
